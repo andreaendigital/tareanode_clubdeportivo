@@ -17,10 +17,10 @@ correspondiente a los deportes que ofrece este club deportivo.
 
 Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
 
- - "dependencies": 
+ "dependencies": 
  - "axios": "^1.6.8",
  - "express": "^4.19.2"
--  "devDependencies": 
+"devDependencies": 
 -  "nodemon": "^3.1.0"
   
 
@@ -34,7 +34,7 @@ Lista de software y herramientas, incluyendo versiones, que necesitas para insta
 
 ## Renders y Pruebas ⚙️
 
-- levantando servidor con:
+Levantando servidor con:
 - nodemon +nombrearchivo
 - node +nombrearchivo
 
@@ -50,7 +50,7 @@ Explica qué tecnologías usaste para construir este proyecto. Aquí algunos eje
 - [Express](https://expressjs.com/en/5x/api.html)- Node paquete Express
 - [Nodemon](https://www.npmjs.com/package/nodemon)- Node paquete Nodemon
 - [Axios]([https://www.npmjs.com/package/axios])- Node paquete Axios
-- 
+  
 
 ## Autor ⚡ 
 
