@@ -11,7 +11,7 @@ deportes que ofrecen en sus sucursales.
 Deberás crear un sistema tipo CRUD que persista la información en un archivo JSON
 correspondiente a los deportes que ofrece este club deportivo. 
 
-## Sobre el poryecto 🚀
+## Sobre el proyecto 🚀
 
 
 ### ✨ Requerimientos ✨
