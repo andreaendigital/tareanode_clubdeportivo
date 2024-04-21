@@ -17,25 +17,26 @@ correspondiente a los deportes que ofrece este club deportivo.
 
 Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
 
-  "dependencies": {
-    "axios": "^1.6.8",
-    "express": "^4.19.2"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.0"
-  }
+ - "dependencies": 
+ - "axios": "^1.6.8",
+ - "express": "^4.19.2"
+-  "devDependencies": 
+-  "nodemon": "^3.1.0"
+  
 
 ### Instalación 🔧
 
-// Instalo en terminal:
-// npm init --yes
-// npm install express
-// npm i nodemon --D
-// npm i axios
+ Instalo en terminal:
+- npm init --yes
+- npm install express
+- npm i nodemon --D
+- npm i axios
 
 ## Renders y Pruebas ⚙️
 
-levantando servidor con nodemon +nombrearchivo o node +nombrearchivo
+- levantando servidor con:
+- nodemon +nombrearchivo
+- node +nombrearchivo
 
 ## Despliegue 📦
 
