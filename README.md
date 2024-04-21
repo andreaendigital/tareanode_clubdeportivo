@@ -13,6 +13,14 @@ correspondiente a los deportes que ofrece este club deportivo.
 
 ## Sobre el poryecto 🚀
 
+### ✨ Requerimientos ✨
+
+1.Crear una ruta que reciba el nombre y precio de un nuevo deporte, lo persista en un archivo JSON. Validar en el backend que se reciben los parámetros necesarios o requeridos y en el tipo adecuado, debe validarse que no se repitan los nombres de los deportes. Manejar esta ruta con queryStrings.
+2. Crear una ruta que al consultarse devuelva en formato JSON todos los deportes registrados.
+3. Crear una ruta que edite el precio de un deporte registrado, utilizando los parámetros de la consulta y persista este cambio. Recuerde que para modificar se debe consultar, por tanto, hay que validar 2 cosas primero que se reciba el parámetro y después que exista el deporte coincidente con el parámetro. Manejar esta ruta con queryStrings.
+4. Crear una ruta que elimine un deporte solicitado desde el cliente y persista este cambio. En el Backend Validar que se recibe el parámetro requerido, también validar después si existe el deporte solicitado y solo si existe se podrá eliminar. Manejar esta ruta utilizando parámetros no queryStrings, ojo, que esto requiere un pequeño cambio en el Front.
+Nota: Agregar control de ruta No Existente, se deben manejar control de errores con bloques try/catch, y usar variedad de errores y respuestas del servidor según sean necesarias.
+
 ### Prerrequisitos 📋
 
 Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
